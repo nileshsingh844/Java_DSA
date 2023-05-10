@@ -9,7 +9,9 @@
  *     }
  * }
  */
+//NOTE: IF USING HASH TABLE TIME COMPLEXITY IS O(N) AND SPACE COMPLEXITY O(N)
 
+//IN THIS APPROACH THE TIME COMPLEXITY IS O(N) AND SPACE COMPLEXITY IS O(1)
  //we will use two pointer approach, slow and fast
  //we will iterate both, fast twice the speed of slow
  //we will use the stopping condition, that is, when the fast reaches the end,
